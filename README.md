@@ -1,4 +1,4 @@
-git init
+git init and more details
 git add README.md
 git commit -m "first commit"
 git branch -M main
